@@ -72,10 +72,9 @@ pip install numpy matplotlib pandas scikit-learn
 ---
 
 ## 🤝 Connect with Me
-🔗 **Portfolio:** [My Website](https://portfolio-mitalpatil.vercel.app/)  
-🐦 **Twitter:** [@yourTwitter](https://twitter.com/yourTwitter)  
-🌚 **LinkedIn:** [Mital Patil](https://www.linkedin.com/in/mital-patil/)  
-📧 **Email:** your.email@example.com
+🔗 **Portfolio:** [My Website](https://portfolio-mitalpatil.vercel.app/)    
+🌚 **LinkedIn:** [Mital Patil](https://www.linkedin.com/in/mitalpatil/)  
+📧 **Email:** mitalpatil22@gmail.com
 
 If you find this helpful, don't forget to **⭐ Star** the repo! 😊✨
 
